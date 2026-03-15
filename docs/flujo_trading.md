@@ -16,3 +16,6 @@ Este script descarga datos de Apple (AAPL), calcula la media móvil simple de 20
 ### Ejecución
 ```bash
 python3 scripts/sma_trading.py
+⚠️ Nota: Antes de crear o editar scripts, asegúrate de estar dentro de la carpeta del repositorio:
+```bash
+cd ~/trading-practico-github/trading-practico-github
