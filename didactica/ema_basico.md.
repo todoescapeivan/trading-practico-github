@@ -1,0 +1,5 @@
+# EMA Básico
+La media móvil exponencial (EMA) es un indicador que da más peso a los precios recientes.
+- EMA(7): refleja movimientos rápidos.
+- EMA(25): tendencia intermedia.
+- EMA(99): tendencia larga.
