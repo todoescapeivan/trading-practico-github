@@ -32,6 +32,8 @@ data["SMA20"] = data["Close"].rolling(window=20).mean()
 
 # Mostrar primeras filas con SMA
 print(data.head(25))
+⚠️ Importante: Los comandos de ejecución (`python3 scripts/...`) se escriben en la terminal, nunca dentro del código Python.  
+Si se copian dentro del archivo, aparecerá un error de sintaxis.
 
 # Graficar precio de cierre y SMA
 plt.figure(figsize=(10,5))
